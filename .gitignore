@@ -1,0 +1,61 @@
+# ======================================
+#  AMBIENTE E CONFIGURAÇÕES
+# ======================================
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# ======================================
+#  DADOS E ARQUIVOS GRANDES
+# ======================================
+# Dados brutos e processados
+data/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+
+# ======================================
+#  NOTEBOOKS E SAÍDAS
+# ======================================
+# Checkpoints automáticos do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários de execução
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.out
+
+# ======================================
+#  ARQUIVOS DE ANOTAÇÃO E LINKS
+# ======================================
+# Arquivos auxiliares ou pessoais
+fazer.txt
+link_dataset_kaggle.txt
+
+# ======================================
+#  SISTEMAS OPERACIONAIS
+# ======================================
+# Windows / macOS
+Thumbs.db
+.DS_Store
+
+# ======================================
+#  DEPLOY E OUTROS
+# ======================================
+# Arquivos de build
+dist/
+build/
+*.egg-info/
