@@ -1,1 +1,2 @@
-Usar o Fasting_Blood_Glucose e o HbA1c para fazer a coluna diabetes
+- Pensar se deixar em matriz esparsa está me prejudicando ou não
+- Resolver o problema de estar mostrando index na y_train
